@@ -1,0 +1,10 @@
+
+Aihe: pienten neuroverkkojen ja opetusalgoritmien testaamiseen tarkoitettu ohjelma.
+
+Käyttäjät: opiskelijat
+
+Kaikkien käyttäjien toiminnot:
+
+- Määrittää/valitsee käytettävän neuroverkon (tämän laajuus vielä pahasti auki)
+- Antaa syötteen neuroverkolle.
+- Antaa palautteen neuroverkolle, joka ohjaa neuroverkon oppimista
